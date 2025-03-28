@@ -58,5 +58,5 @@ Please use [*ProperTree*](https://github.com/corpnewt/ProperTree/archive/refs/he
 - [Opencore Team](https://dortania.github.io/getting-started/)
 - [luchina-gabriel BASE EFI AMD - Ryzen and Threadripper](https://github.com/luchina-gabriel/BASE-EFI-AMD-RYZEN-THREADRIPPER-PUBLIC)
 
-## Discord - Universo Hackintosh
+## Best Place To Learn And Best Community On Discord - Universo Hackintosh
 - [Access Discord](https://discord.universohackintosh.com.br)
