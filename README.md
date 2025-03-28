@@ -1,6 +1,6 @@
 # Gigabyte B450M Aorus + Ryzen7 3700X + RX 580 Sapphire Nitro + Fenvi BRCM20702
 
-![about-12 3 1](.png)
+![about-12 3 1](https://raw.githubusercontent.com/nilsen-daniel/EFI-Desktop-B450-AORUSM-AMD-Ryzen7-3700X-RX580/refs/heads/main/Images/Ryzentosh.png)
 
 **Latest working macOS**: 13.7.4
 <br>
