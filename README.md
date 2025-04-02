@@ -28,6 +28,9 @@ Please use [*ProperTree*](https://github.com/corpnewt/ProperTree/archive/refs/he
 - 4x 8Gb DDR4 3000Mhz JUHOR with XMP Enabled
 - Wifi/BT by Fenvi BRCM20702
 
+## USB-MAP
+![mapped-usb](.png)
+
 ## What works
 - macOS Ventura
 - Audio
