@@ -29,7 +29,7 @@ Please use [*ProperTree*](https://github.com/corpnewt/ProperTree/archive/refs/he
 - Wifi/BT by Fenvi BRCM20702
 
 ## USB-MAP
-![mapped-usb](.png)
+![mapped-usb](https://raw.githubusercontent.com/nilsen-daniel/EFI-Desktop-B450-AORUSM-AMD-Ryzen7-3700X-RX580/refs/heads/main/Images/USB-Ryzentosh.png)
 
 ## What works
 - macOS Ventura
