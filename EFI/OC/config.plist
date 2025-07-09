@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key># EFI AMD Ryzen 7 3700X - RX580 - Daniel Nilsen Flores</key>
+	<key># EFI AMD Ryzen 7 3700X - RX580 - Daniel Nilsen</key>
 	<string></string>
 	<key>ACPI</key>
 	<dict>
@@ -95,6 +95,17 @@
 	<dict>
 		<key>Add</key>
 		<dict>
+			<key>PciRoot(0x0)/Pci(0x8,0x1)/Pci(0x0,0x4)</key>
+			<dict>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,8,1/0,4</string>
+				<key>device_type</key>
+				<string>Audio device</string>
+				<key>model</key>
+				<string>Starship/Matisse HD Audio Controller</string>
+				<key>layout-id</key>
+				<integer>1</integer>
+			</dict>
 			<key>PciRoot(0x0)/Pci(0x1,0x3)/Pci(0x0,0x2)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
 			<dict>
 				<key>built-in</key>

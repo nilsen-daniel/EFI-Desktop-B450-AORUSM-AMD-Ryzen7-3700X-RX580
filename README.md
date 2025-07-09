@@ -2,9 +2,9 @@
 
 ![about-12 3 1](https://raw.githubusercontent.com/nilsen-daniel/EFI-Desktop-B450-AORUSM-AMD-Ryzen7-3700X-RX580/refs/heads/main/Images/Ryzentosh.png)
 
-**Latest working macOS**: 13.7.4
+**Latest working macOS**: 13.7.6 (22H625)
 <br>
-**Current OpenCore**: 1.0.4
+**Current OpenCore**: 1.0.5
 
 ## Attention 
 Update **config.plist** in PlatformInfo > Generic with YOUR informations.
@@ -27,6 +27,8 @@ Please use [*ProperTree*](https://github.com/corpnewt/ProperTree/archive/refs/he
 - RX 580 - Nitro Sapphire
 - 4x 8Gb DDR4 3000Mhz JUHOR with XMP Enabled
 - Wifi/BT by Fenvi BRCM20702
+
+![hardware](https://raw.githubusercontent.com/nilsen-daniel/EFI-Desktop-B450-AORUSM-AMD-Ryzen7-3700X-RX580/refs/heads/main/Images/Hardware.png)
 
 ## USB-MAP
 ![mapped-usb](https://raw.githubusercontent.com/nilsen-daniel/EFI-Desktop-B450-AORUSM-AMD-Ryzen7-3700X-RX580/refs/heads/main/Images/USB-Ryzentosh.png)
